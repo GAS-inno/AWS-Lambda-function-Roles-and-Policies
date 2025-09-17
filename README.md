@@ -17,7 +17,7 @@ Without this role, the function operates in a sandboxed environment and cannot a
 
 A **resource-based policy** is attached directly to the Lambda function and controls **who or what can invoke it**.
 
-### 🧩 Example Use Cases:
+### Example Use Cases:
 - Allowing S3 to invoke the function when a new object is uploaded
 - Enabling API Gateway to trigger the function via HTTP requests
 
